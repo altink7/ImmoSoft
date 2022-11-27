@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache.pdfbox.jbig2.imageio" type="repository">
+    <properties maven-id="org.apache.pdfbox:jbig2-imageio:3.0.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/pdfbox/jbig2-imageio/3.0.4/jbig2-imageio-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

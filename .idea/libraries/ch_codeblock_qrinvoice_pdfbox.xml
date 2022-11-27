@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="ch.codeblock.qrinvoice.pdfbox" type="repository">
+    <properties maven-id="ch.codeblock.qrinvoice.pdfbox:qrinvoice-pdfbox:1.16" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/qrinvoice-pdfbox-1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qrinvoice-core-1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-3.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javase-3.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdfbox-2.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fontbox-2.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jbig2-imageio-3.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
