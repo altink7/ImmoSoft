@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ImmoSoft" options="--add-exports java.base/jdk.internal.icu.text=ALL-UNNAMED" />
+      <module name="ImmoSoft" options="" />
     </option>
   </component>
 </project>

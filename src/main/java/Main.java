@@ -1,10 +1,10 @@
-import javax.swing.text.Document;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
+import repoCompany.CompanyLogo;
+
+import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        TestDataCompany testDataCompany = new TestDataCompany();
+        /*TestDataCompany testDataCompany = new TestDataCompany();
         String[] revenue = testDataCompany.createRevenueArray();
         testDataCompany.writeRevenueToFile(revenue);
         try {
@@ -13,7 +13,11 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println("Done");
+        System.out.println("Done");*/
+
+        //print the company logo
+        CompanyLogo companyLogo = new CompanyLogo();
+        companyLogo.paint();
 
     }
 
